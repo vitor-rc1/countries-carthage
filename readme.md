@@ -1,4 +1,4 @@
-# Countries List App
+# Countries List App - MVC
 
 App to training use of the Carthage dependency manager
 
